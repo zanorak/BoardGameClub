@@ -1,0 +1,28 @@
+
+h1 {
+	color: gray;
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+h4 {
+	text-align: center;
+}
+
+p {
+	color: gray;
+}
+
+img {
+	float: left;
+	padding-right: 20px;
+	padding-left: 40px;
+	padding-bottom: 40px;
+}
+
+div {
+	clear: both;
+}
